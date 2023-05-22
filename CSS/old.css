@@ -1,0 +1,63 @@
+
+/*---------------------------------TAG SELECTORS-------------------------------
+
+body{
+    background-color: #EEF2E6;
+}
+
+hr{
+    border-style: none;
+    border-top: dotted;
+    color: #D6CDA4;
+    width: 5%;
+    border-width: 7px;
+
+}
+
+h3{
+    color: #1C6758;
+    text-align: center;
+    font-family: "Monaco", "Lucida Console", "Courier New", monospace;
+    font-size: 30px;
+}
+
+h1{
+    color: #3D8361;
+    font-family:  "Lucida Console","Monaco", "Courier New", monospace;
+    font-size: 35px;
+}
+
+/*---------------------------------CLASS SELECTORS-------------------------------
+
+.text{
+    font-family: "Courier New", "Monaco", "Lucida Console",  monospace;
+    text-align: justify;
+}
+
+.mainhead{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bio{
+    text-align: center;
+    font-family: "Lucida Console","Monaco", "Courier New", monospace;
+    font-size: 13px;
+
+}
+
+.name{
+    text-align: center;
+}
+/*---------------------------------PSEUDO SELECTORS-------------------------------
+
+h3:hover{
+    color: black;
+    font-size: 33px;
+}
+
+h1:hover{
+    color: darkgreen;
+    font-size: 37px;
+
+}
